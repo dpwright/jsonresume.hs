@@ -1,5 +1,5 @@
 name:                jsonresume
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Parser and datatypes for the JSON Resume format
 description:         The JSON Resume initiative (<http://jsonresume.org>) provides
                      a standard format for representing resumes/CVs in JSON
