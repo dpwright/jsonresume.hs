@@ -6,7 +6,7 @@ description:         The JSON Resume initiative (<http://jsonresume.org>) provid
                      form.  This library encodes that standard in Haskell
                      datatypes, and provides a parser to read a CV in the JSON
                      Resume format.
-homepage:            https://github.com/dpwright/pandoc-jsonresume
+homepage:            https://github.com/dpwright/jsonresume.hs
 license:             BSD3
 license-file:        LICENSE
 author:              Daniel P. Wright
